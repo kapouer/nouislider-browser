@@ -1,0 +1,18 @@
+{
+  "name": "nouislider-browser",
+  "version": "4.2.2-1",
+  "description": "npm package for nouislider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/kapouer/nouislider-browser.git"
+  },
+  "author": "Leon Gersen",
+  "license": "DO-WHAT-YOU-WANT",
+  "bugs": {
+    "url": "https://github.com/kapouer/nouislider-browser/issues"
+  }
+}
