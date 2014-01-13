@@ -1,6 +1,6 @@
 {
   "name": "nouislider-browser",
-  "version": "4.2.2-1",
+  "version": "5.0.0-1",
   "description": "npm package for nouislider",
   "main": "index.js",
   "scripts": {
